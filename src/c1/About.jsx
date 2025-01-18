@@ -12,7 +12,7 @@ const About = () => {
         <div className="px-6 py-4">
           <h2 className="font-bold text-xl mb-2">Card Title</h2>
           <p className="text-gray-700 text-base">
-            This is a Tailwind CSS card component.
+            This is a Tailwind CSS card component test.
           </p>
         </div>
       </div>
