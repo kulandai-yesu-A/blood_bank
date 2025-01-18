@@ -1,0 +1,90 @@
+.pic{
+    background-image: url('https://watermark.lovepik.com/photo/40177/1395.jpg_wh1200.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hd{
+    background-color: rgb(253, 78, 78);
+    height: 90px;
+    /* box-shadow: 10px 10px 10px 20px rgba(183, 183, 254, 0.5); */
+} 
+.hlk{
+    text-decoration: none;
+    color: white;
+}
+.hlk:hover{
+     color: black;
+}
+.hside{
+    height: 86vh;
+    background-color: rgb(255, 255, 255);
+}
+.hside1{
+    margin-top: 30px;
+}
+
+.hlk1{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1{
+    color: rgb(255, 0, 0);
+}
+
+.cform{
+    background-color: rgb(109, 114, 113);
+    color: white;
+}
+
+.donor-list{
+    text-decoration: none;
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 1rem;
+    box-shadow: 0px 1px 3px 8px rgb(255, 202, 202);
+}
+
+.hep{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+.sidebarlk{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.sidebarlk:hover{
+    color: black;
+}
+
+.about{
+    background-color: white;
+    height: 87vh;
+    margin: 3px;
+    box-shadow: 0px 0px 20px 12px rgb(252, 53, 53);
+
+}
+
+.donorform{
+    background-color: rgb(75, 172, 172);
+
+}
+
+.donorcard{
+    box-shadow: 0px 0px 20px 12px rgb(97, 97, 97);
+
+}
+
+.homepage{
+    background-color: rgb(254, 254, 254);
+}

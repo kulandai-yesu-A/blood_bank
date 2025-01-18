@@ -1,0 +1,38 @@
+.icon{
+    color: rgb(255, 255, 255);
+}
+
+.hdblack{
+    height: 4px;
+    background-color: black;
+
+}
+.logout{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 1rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.logout:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 104, 255);
+    border-radius: 1rem;
+}
+.page{
+    height: 70px;
+    /* border-radius: 1rem; */
+    background-color: rgb(255, 38, 38);
+}
+
+.home2{
+    background-image: url('https://media.istockphoto.com/id/1224861391/vector/abstract-giving-hand-low-poly-style-design.jpg?s=612x612&w=0&k=20&c=ZNvmPJ0VF06xa0XpBjqkIKlcblZDOXIBYrTRyzzPvAg=');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
